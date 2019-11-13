@@ -1,3 +1,3 @@
-for(let c = 0; c < 22; c++) {
+for(let d = 0; d < 22; d++) {
     console.log(c)
 }
